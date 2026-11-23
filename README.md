@@ -1,3 +1,6 @@
+Nombre: Cristian David Gracia Vargas
+Código: 6014505
+
 ## Arquitectura y Componentes Clave
 
 1. **Capa de Presentación y Ventana (GLFW + GLAD):** Gestiona el contexto OpenGL 3.3, la captura de periféricos (mouse/teclado) y el mapeo de coordenadas de pantalla a índices discretos de la grilla.
